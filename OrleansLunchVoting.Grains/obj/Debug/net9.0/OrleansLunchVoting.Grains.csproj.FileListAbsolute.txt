@@ -1,0 +1,12 @@
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\bin\Debug\net9.0\OrleansLunchVoting.Grains.deps.json
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\bin\Debug\net9.0\OrleansLunchVoting.Grains.dll
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\bin\Debug\net9.0\OrleansLunchVoting.Grains.pdb
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\OrleansLunchVoting.Grains.csproj.AssemblyReference.cache
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\OrleansLunchVoting.Grains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\OrleansLunchVoting.Grains.AssemblyInfoInputs.cache
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\OrleansLunchVoting.Grains.AssemblyInfo.cs
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\OrleansLunchVoting.Grains.csproj.CoreCompileInputs.cache
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\OrleansLunchVoting.Grains.dll
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\refint\OrleansLunchVoting.Grains.dll
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\OrleansLunchVoting.Grains.pdb
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\ref\OrleansLunchVoting.Grains.dll

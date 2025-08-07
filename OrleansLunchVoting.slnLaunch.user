@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "OrleansLunchVoting.Silo\\OrleansLunchVoting.Silo.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
