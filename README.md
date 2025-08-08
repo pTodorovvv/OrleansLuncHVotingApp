@@ -97,7 +97,5 @@ Displays status messages for actions performed.
 - Server time is adjustable for testing scenarios.
 - Usernames are stored in cookies via middleware.
 - The app uses Orleans grains to manage vote state per day.
-
----
-
-Feel free to extend the UI or API as needed!
+- One important thing set time after 14:30 UTC up to 16:30 UTC as the UTC is +3 hours so the results are visible
+  
