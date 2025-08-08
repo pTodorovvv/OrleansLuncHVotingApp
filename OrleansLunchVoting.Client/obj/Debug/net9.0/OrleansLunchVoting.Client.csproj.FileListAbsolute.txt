@@ -77,3 +77,4 @@ C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.C
 C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Client\obj\Debug\net9.0\OrleansLunchVoting.Client.pdb
 C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Client\obj\Debug\net9.0\OrleansLunchVoting.Client.genruntimeconfig.cache
 C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Client\obj\Debug\net9.0\ref\OrleansLunchVoting.Client.dll
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Client\obj\Debug\net9.0\OrleansLunchVoting.Client.sourcelink.json

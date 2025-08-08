@@ -7,16 +7,19 @@
       "RelativeMoniker": "D:0:0:{8D96554E-E26F-4D85-A96C-B535A9EE9B39}|OrleansLunchVoting.Client\\OrleansLunchVoting.Client.csproj|solutionrelative:orleanslunchvoting.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|c:\\users\\\u043F\u0435\u0442\u044A\u0440 \u0442\u043E\u0434\u043E\u0440\u043E\u0432\\desktop\\egtinterviewtask\\orleanslunchvoting.grains\\grains\\votegrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|solutionrelative:orleanslunchvoting.grains\\grains\\votegrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\AppData\\Local\\Temp\\.vsdbgsrc\\cec24cc2c4e1434620468e6dc38bbb62eb13790f\\OrleansLunchVoting.Grains.orleans.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|c:\\users\\\u043F\u0435\u0442\u044A\u0440 \u0442\u043E\u0434\u043E\u0440\u043E\u0432\\desktop\\egtinterviewtask\\orleanslunchvoting.grains\\grains\\clockgrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|solutionrelative:orleanslunchvoting.grains\\grains\\clockgrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|c:\\users\\\u043F\u0435\u0442\u044A\u0440 \u0442\u043E\u0434\u043E\u0440\u043E\u0432\\desktop\\egtinterviewtask\\orleanslunchvoting.grains\\contracts\\ivotegrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|solutionrelative:orleanslunchvoting.grains\\contracts\\ivotegrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|c:\\users\\\u043F\u0435\u0442\u044A\u0440 \u0442\u043E\u0434\u043E\u0440\u043E\u0432\\desktop\\egtinterviewtask\\orleanslunchvoting.grains\\grains\\votegrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|solutionrelative:orleanslunchvoting.grains\\grains\\votegrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|c:\\users\\\u043F\u0435\u0442\u044A\u0440 \u0442\u043E\u0434\u043E\u0440\u043E\u0432\\desktop\\egtinterviewtask\\orleanslunchvoting.grains\\contracts\\iclockgrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|solutionrelative:orleanslunchvoting.grains\\contracts\\iclockgrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C366CC86-E3C3-4248-AD27-4399463E9D21}|OrleansLunchVoting.Silo\\OrleansLunchVoting.Silo.csproj|c:\\users\\\u043F\u0435\u0442\u044A\u0440 \u0442\u043E\u0434\u043E\u0440\u043E\u0432\\desktop\\egtinterviewtask\\orleanslunchvoting.silo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +30,8 @@
       "RelativeMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|solutionrelative:orleanslunchvoting.grains\\helpers\\lunchplaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|c:\\users\\\u043F\u0435\u0442\u044A\u0440 \u0442\u043E\u0434\u043E\u0440\u043E\u0432\\desktop\\egtinterviewtask\\orleanslunchvoting.grains\\contracts\\iclockgrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|solutionrelative:orleanslunchvoting.grains\\contracts\\iclockgrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|c:\\users\\\u043F\u0435\u0442\u044A\u0440 \u0442\u043E\u0434\u043E\u0440\u043E\u0432\\desktop\\egtinterviewtask\\orleanslunchvoting.grains\\contracts\\ivotegrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A604CDCC-E45F-4CA6-B2CA-7AEF25A577EC}|OrleansLunchVoting.Grains\\OrleansLunchVoting.Grains.csproj|solutionrelative:orleanslunchvoting.grains\\contracts\\ivotegrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +41,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrleansLunchVoting.Grains.orleans.g.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\AppData\\Local\\Temp\\.vsdbgsrc\\cec24cc2c4e1434620468e6dc38bbb62eb13790f\\OrleansLunchVoting.Grains.orleans.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cec24cc2c4e1434620468e6dc38bbb62eb13790f\\OrleansLunchVoting.Grains.orleans.g.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\AppData\\Local\\Temp\\.vsdbgsrc\\cec24cc2c4e1434620468e6dc38bbb62eb13790f\\OrleansLunchVoting.Grains.orleans.g.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cec24cc2c4e1434620468e6dc38bbb62eb13790f\\OrleansLunchVoting.Grains.orleans.g.cs [Read Only]",
+              "ViewState": "AgIAANUCAAAAAAAAAAAnwOsCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T05:41:19.332Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
@@ -52,20 +68,20 @@
               "RelativeDocumentMoniker": "OrleansLunchVoting.Grains\\Grains\\ClockGrain.cs",
               "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\Desktop\\EGTInterviewTask\\OrleansLunchVoting.Grains\\Grains\\ClockGrain.cs",
               "RelativeToolTip": "OrleansLunchVoting.Grains\\Grains\\ClockGrain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T16:45:05.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "IClockGrain.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\Desktop\\EGTInterviewTask\\OrleansLunchVoting.Grains\\Contracts\\IClockGrain.cs",
               "RelativeDocumentMoniker": "OrleansLunchVoting.Grains\\Contracts\\IClockGrain.cs",
               "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\Desktop\\EGTInterviewTask\\OrleansLunchVoting.Grains\\Contracts\\IClockGrain.cs",
               "RelativeToolTip": "OrleansLunchVoting.Grains\\Contracts\\IClockGrain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T16:44:46.354Z",
               "EditorCaption": ""
@@ -78,14 +94,14 @@
               "RelativeDocumentMoniker": "OrleansLunchVoting.Client\\Program.cs",
               "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\Desktop\\EGTInterviewTask\\OrleansLunchVoting.Client\\Program.cs",
               "RelativeToolTip": "OrleansLunchVoting.Client\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAcwLQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T19:39:00.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\Desktop\\EGTInterviewTask\\OrleansLunchVoting.Silo\\Program.cs",
               "RelativeDocumentMoniker": "OrleansLunchVoting.Silo\\Program.cs",
@@ -98,33 +114,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "VoteGrain.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\Desktop\\EGTInterviewTask\\OrleansLunchVoting.Grains\\Grains\\VoteGrain.cs",
               "RelativeDocumentMoniker": "OrleansLunchVoting.Grains\\Grains\\VoteGrain.cs",
               "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\Desktop\\EGTInterviewTask\\OrleansLunchVoting.Grains\\Grains\\VoteGrain.cs",
               "RelativeToolTip": "OrleansLunchVoting.Grains\\Grains\\VoteGrain.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAjwD0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T19:23:19.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IVoteGrain.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\Desktop\\EGTInterviewTask\\OrleansLunchVoting.Grains\\Contracts\\IVoteGrain.cs",
               "RelativeDocumentMoniker": "OrleansLunchVoting.Grains\\Contracts\\IVoteGrain.cs",
               "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\Desktop\\EGTInterviewTask\\OrleansLunchVoting.Grains\\Contracts\\IVoteGrain.cs",
               "RelativeToolTip": "OrleansLunchVoting.Grains\\Contracts\\IVoteGrain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T19:19:51.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LunchPlaces.cs",
               "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u044A\u0440 \u0422\u043E\u0434\u043E\u0440\u043E\u0432\\Desktop\\EGTInterviewTask\\OrleansLunchVoting.Grains\\Helpers\\LunchPlaces.cs",
               "RelativeDocumentMoniker": "OrleansLunchVoting.Grains\\Helpers\\LunchPlaces.cs",

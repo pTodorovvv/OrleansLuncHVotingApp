@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrleansLunchVoting.Grains")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+164bf28c26f70be977621e67aa209aeb6f4f7463")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrleansLunchVoting.Grains")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrleansLunchVoting.Grains")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

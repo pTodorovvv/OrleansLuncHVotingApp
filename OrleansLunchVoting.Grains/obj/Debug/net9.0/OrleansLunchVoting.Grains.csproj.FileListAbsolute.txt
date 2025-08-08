@@ -10,3 +10,4 @@ C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.G
 C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\refint\OrleansLunchVoting.Grains.dll
 C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\OrleansLunchVoting.Grains.pdb
 C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\ref\OrleansLunchVoting.Grains.dll
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Grains\obj\Debug\net9.0\OrleansLunchVoting.Grains.sourcelink.json

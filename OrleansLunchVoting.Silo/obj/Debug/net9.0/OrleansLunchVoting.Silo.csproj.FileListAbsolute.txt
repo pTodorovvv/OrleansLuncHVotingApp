@@ -75,3 +75,4 @@ C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.S
 C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Silo\obj\Debug\net9.0\OrleansLunchVoting.Silo.pdb
 C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Silo\obj\Debug\net9.0\OrleansLunchVoting.Silo.genruntimeconfig.cache
 C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Silo\obj\Debug\net9.0\ref\OrleansLunchVoting.Silo.dll
+C:\Users\Петър Тодоров\Desktop\EGTInterviewTask\OrleansLunchVoting.Silo\obj\Debug\net9.0\OrleansLunchVoting.Silo.sourcelink.json
